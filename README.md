@@ -2,18 +2,23 @@
 🌱 I Write Code as a Javascript developer. Specialized in Reactjs, Nextjs.
 
 
-
+<!--
 ✒️ Find my work over here: [Portfolio](https://github.com/7fighter?tab=repositories)
+-->
+
+<img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width="400" />
+<!--
+![Banner](https://camo.githubusercontent.com/c467199e55326b2d77006db0f8c94f4e68a9909e24e027777a9d08664abca1e7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966)  
+-->
 
 
-
-![Banner](https://camo.githubusercontent.com/c467199e55326b2d77006db0f8c94f4e68a9909e24e027777a9d08664abca1e7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-blue?style=for-the-badge&logo=vercel)](https://portfolio-seven-flax-42.vercel.app/)
 
 Passionate about writing clean and maintainable code that adheres to industry standards and best practices. Always eager to learn new technologies and stay up-to-date with the latest trends in tech.
 
 Languages and Tools:
 
-![Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind)
+![Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,supabase,netlify,vercel,mongodb,postgres,mysql)
 
 <!--
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
